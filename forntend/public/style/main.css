@@ -1,0 +1,94 @@
+body {
+	font-family: "Nunito Sans", sans-serif;
+	background-color: #bad7e9;
+}
+/* navigation bar*/
+.navbar,
+.navbar-nav,
+.nav-link {
+	background-color: #2b3467;
+	color: #bad7e9 !important;
+}
+
+.navbar-brand {
+	margin-left: 5rem;
+	color: #fcffe7;
+	font-weight: 900;
+	font-size: x-large;
+}
+.navbar-brand:hover {
+	color: #fcffe7;
+}
+
+.nav-item {
+	font-size: 0.9rem;
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+.nav-link:hover {
+	color: #fcffe7 !important;
+}
+
+.nav-link:active {
+	color: #fcffe7 !important;
+}
+
+/* Prediction Form */
+.Headings {
+	margin-top: 30px;
+	color: #fcffe7;
+	font-weight: bolder;
+}
+
+.Container {
+	color: #bad7e9;
+	margin: 20px 0px;
+	background-color: #2b3467;
+	padding: 30px 30px;
+	border-radius: 1%;
+	font-weight: 600px in !important;
+}
+
+.TextInputs,
+.DropDownInput,
+.RadioInputs {
+	padding: 20px;
+}
+
+.PredictButton {
+	margin: 20px;
+	font-size: x-large;
+	font-weight: 900;
+	color: #fcffe7;
+	background-color: #2b3467;
+	border-color: #fcffe7;
+}
+
+.PredictButton:hover {
+	/* padding: 1rem; */
+	background-color: #fcffe7;
+	color: #2b3467;
+	border-color: #2b3467;
+	cursor: pointer;
+}
+
+.card-title {
+	font-weight: 900;
+	font-size: x-large;
+}
+
+.JobCard {
+	background-color: #bad7e9;
+	color: #2b3467;
+	width: 20rem;
+	/* height: 25rem; */
+	margin: 5px;
+}
+
+.Main-Headings {
+	margin-top: 30px;
+	color: #fcffe7;
+	font-weight: 900;
+	font-size: 3.5rem;
+}
